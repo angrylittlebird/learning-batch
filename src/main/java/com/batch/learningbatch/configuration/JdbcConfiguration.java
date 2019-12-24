@@ -25,10 +25,10 @@ import java.util.HashMap;
 /**
  * @Author: ZHANG
  * @Date: 2019/12/15
- * @Description:
+ * @Description: listener(ChunkListener),chunk,reader(JdbcPagingItemReader),writer
  */
-@Configuration
-@EnableBatchProcessing
+//@Configuration
+//@EnableBatchProcessing
 public class JdbcConfiguration {
     @Autowired
     @Qualifier("jdbcDemoWriter")

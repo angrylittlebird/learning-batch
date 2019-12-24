@@ -19,7 +19,7 @@ import org.springframework.core.io.ClassPathResource;
 /**
  * @Author: ZHANG
  * @Date: 2019/12/15
- * @Description:
+ * @Description: FlatFileItemReader
  */
 //@Configuration
 public class FlatFileConfiguration {
